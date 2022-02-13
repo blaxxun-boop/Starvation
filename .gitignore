@@ -1,0 +1,6 @@
+bin
+obj
+/packages
+Starvation.sln.DotSettings.user
+.idea
+.vs

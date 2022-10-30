@@ -10,7 +10,7 @@ namespace Starvation;
 public class Starvation : BaseUnityPlugin
 {
 	private const string ModName = "Starvation";
-	private const string ModVersion = "1.0.1";
+	private const string ModVersion = "1.0.2";
 	private const string ModGUID = "org.bepinex.plugins.starvation";
 	private static int tickCount = 0;
 
